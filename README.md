@@ -50,11 +50,13 @@ $ cd angular2-todo-app
 $ ng serve
 ```
 
+### Client
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+
 ### Browser
 Just access to `http://localhost:4200/`
 
-### Client
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Contributing
 
